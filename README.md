@@ -1,1 +1,1 @@
-# sseditingstudios
+# sseditingstudio
